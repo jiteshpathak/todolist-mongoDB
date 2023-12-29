@@ -20,8 +20,8 @@ h1 {
 }
 
 #heading {
-  background: linear-gradient(90deg, rgba(200, 34, 34, 1.0), rgba(216, 157, 65, 1.0), rgba(65, 157, 216, 1.0));
-  text-align: center;
+background: rgba(227, 46, 97, 1.0);
+background: linear-gradient(90deg, rgba(227, 46, 97, 1.0), rgba(112, 138, 180, 1.0));  text-align: center;
 }
 
 .item {
