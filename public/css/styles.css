@@ -20,7 +20,7 @@ h1 {
 }
 
 #heading {
-  background-color: #A683E3;
+  background: linear-gradient(90deg, rgba(200, 34, 34, 1.0), rgba(216, 157, 65, 1.0), rgba(65, 157, 216, 1.0));
   text-align: center;
 }
 
